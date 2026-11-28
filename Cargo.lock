@@ -3702,7 +3702,7 @@ dependencies = [
 
 [[package]]
 name = "talax-app"
-version = "1.14.29"
+version = "1.14.30"
 dependencies = [
  "anyhow",
  "plist",
@@ -3716,7 +3716,7 @@ dependencies = [
 
 [[package]]
 name = "talax-correct"
-version = "1.14.29"
+version = "1.14.30"
 dependencies = [
  "rusqlite",
  "serde",
@@ -3727,7 +3727,7 @@ dependencies = [
 
 [[package]]
 name = "talax-engine"
-version = "1.14.29"
+version = "1.14.30"
 dependencies = [
  "arboard",
  "cpal",
